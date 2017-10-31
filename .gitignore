@@ -1,0 +1,22 @@
+# Temporary Files
+*.sw[mnopl]
+*.py[cod]
+*.[ao]
+tags
+*.out
+*~
+*.session.vim
+__pycache__
+.pymake-errors
+
+# Build
+*.egg-info/
+*.egg-info
+/build/
+/dist/
+
+# Doc
+doc/html/
+doc/graph/
+
+*.cpython*.so
